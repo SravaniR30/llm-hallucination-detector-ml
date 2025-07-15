@@ -1,0 +1,8 @@
+{
+  "bias_variance_tradeoff": "In supervised learning, the bias-variance tradeoff refers to the tradeoff between underfitting (high bias) and overfitting (high variance). A good model balances both to minimize total error. Mathematically, expected test error = bias^2 + variance + irreducible error.",
+  "dropout_vs_batchnorm": "Dropout randomly sets some neurons to zero during training, acting as a regularizer. Batch normalization standardizes inputs to each layer. They solve different problems — dropout prevents overfitting, batchnorm accelerates training.",
+  "kernel_trick": "The kernel trick enables SVMs to operate in a high-dimensional space without explicitly computing the coordinates. It uses a kernel function to compute inner products, allowing for nonlinear decision boundaries.",
+  "vanishing_gradients": "Vanishing gradients occur when gradients shrink exponentially during backpropagation, making it difficult for deep networks to learn. This is common in sigmoid or tanh activations and is mitigated using ReLU or residual connections.",
+  "l1_vs_l2": "L1 regularization (Lasso) leads to sparse models by driving some coefficients to zero. L2 regularization (Ridge) shrinks coefficients but retains all features. Use L1 when feature selection is desired, L2 when all features are relevant.",
+  "naive_bayes_assumptions": "Naive Bayes assumes conditional independence between features given the class label. This simplifies computation but may not hold in practice, although it often performs well despite this assumption."
+}
