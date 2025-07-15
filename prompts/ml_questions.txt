@@ -1,0 +1,11 @@
+Explain the bias-variance tradeoff in supervised learning.
+
+What is the difference between dropout and batch normalization?
+
+Describe the intuition and math behind the kernel trick in SVMs.
+
+How do vanishing gradients affect deep neural networks?
+
+Compare L1 and L2 regularization — when would you use each?
+
+What are the assumptions behind the Naive Bayes classifier?
