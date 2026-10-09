@@ -68,6 +68,4 @@ This project is part of my application to the **Handshake MOVE Program**, design
 
 ---
 
-## 📬 Contact
 
-[LinkedIn](#) • [Email](#)
